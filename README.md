@@ -17,7 +17,9 @@ The Random Forest Regressor was used as the final model after tuning hyperparame
 📈 Model Evaluation Metrics:
 
 ✅ Mean Absolute Error (MAE): ₹488,603.03
+
 ✅ Root Mean Squared Error (RMSE): ₹860,910.91
+
 ✅ R² Score: 0.8534
 
 The model achieved high accuracy due to feature engineering, data preprocessing, and hyperparameter tuning.
